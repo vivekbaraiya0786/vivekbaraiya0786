@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vivek-baraiya-308094243/](https://www.linkedin.com/in/vivek-baraiya-308094243/)
 
-- 💬 Ask me about **Ask me about anything which confused you in FLUTTER**
+- 💬 **Ask me about anything which confused you in FLUTTER**
 
 - 📫 How to reach me **baraiyavivek48@gmail.com**
 
